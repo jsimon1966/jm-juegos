@@ -1,0 +1,90 @@
+[
+  {
+    "id": "small-world-cup",
+    "name": "A Small World Cup",
+    "category": "Deportes",
+    "description": "Fútbol rápido con equipos de todo el mundo.",
+    "url": "https://asmallworldcup.pages.dev/",
+    "image": "assets/small-world-cup.svg"
+  },
+  {
+    "id": "soccer-random",
+    "name": "Soccer Random",
+    "category": "Deportes",
+    "description": "Partidos impredecibles para uno o dos jugadores.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/soccerrandom/",
+    "image": "assets/soccer-random.svg"
+  },
+  {
+    "id": "basket-random",
+    "name": "Basket Random",
+    "category": "Deportes",
+    "description": "Baloncesto rápido con rebotes inesperados.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/basketrandom/",
+    "image": "assets/basket-random.svg"
+  },
+  {
+    "id": "volley-random",
+    "name": "Volley Random",
+    "category": "Deportes",
+    "description": "Voleibol casual para jugar solo o acompañado.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/volleyrandom/",
+    "image": "assets/volley-random.svg"
+  },
+  {
+    "id": "one-on-one-soccer",
+    "name": "1 on 1 Soccer",
+    "category": "Deportes",
+    "description": "Duelo clásico de fútbol entre dos jugadores.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/1on1soccer/",
+    "image": "assets/one-on-one-soccer.svg"
+  },
+  {
+    "id": "drift-boss",
+    "name": "Drift Boss",
+    "category": "Carreras",
+    "description": "Mantén el auto en la pista y supera cada curva.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/driftboss/",
+    "image": "assets/drift-boss.svg"
+  },
+  {
+    "id": "slow-roads",
+    "name": "Slow Roads",
+    "category": "Carreras",
+    "description": "Conduce con calma por carreteras generadas continuamente.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/slowroads/",
+    "image": "assets/slow-roads.svg"
+  },
+  {
+    "id": "bloxorz",
+    "name": "Bloxorz",
+    "category": "Rompecabezas",
+    "description": "Mueve el bloque con estrategia hasta llegar a la meta.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/bloxors/",
+    "image": "assets/bloxorz.svg"
+  },
+  {
+    "id": "stickman-hook",
+    "name": "Stickman Hook",
+    "category": "Habilidad",
+    "description": "Balancéate, calcula el momento y alcanza la meta.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/stickmanhook/",
+    "image": "assets/stickman-hook.svg"
+  },
+  {
+    "id": "cookie-clicker",
+    "name": "Cookie Clicker",
+    "category": "Casual",
+    "description": "Produce galletas, mejora la fábrica y supera tus marcas.",
+    "url": "https://soupcan.pages.dev/storage/games/cookieclicker/",
+    "image": "assets/cookie-clicker.svg"
+  },
+  {
+    "id": "among-us",
+    "name": "Among Us",
+    "category": "Estrategia",
+    "description": "Completa tareas y descubre quién está saboteando la misión.",
+    "url": "https://soupcan.pages.dev/iframe/?url=/storage/games/among-us/",
+    "image": "assets/among-us.svg"
+  }
+]
